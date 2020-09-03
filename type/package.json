@@ -1,0 +1,7 @@
+{
+  "name": "type",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "index.ts",
+  "license": "MIT"
+}
